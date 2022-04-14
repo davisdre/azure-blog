@@ -106,3 +106,8 @@ It should output a hostname something like this.
 ## Success, you did it!
 
 We officially have our blog up and running on Azure Static Web App. 
+
+## Now lets make it personal
+
+Now that we have our Azure Static Web app up and running lets not use the default website url and add a custom domain. [Click Here](https://docs.microsoft.com/en-us/azure/static-web-apps/custom-domain-external) on how to complete that process. Steps were completed via the Azure portal. We are now running via [blog.davisdre.me](https://blog.davisdre.me).
+- [ ] Figure out how to do this via Azure CLI instead of Azure Portal.
