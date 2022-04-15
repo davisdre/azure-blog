@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Drew Davis, Cloud Admnistrator at [Indiana Office of Technology](https://www.in.gov/iot/) and Cloud Enthusiats focused on making cloud learning more accessible and less daunting for everyone.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[Click here](https://connect.davisdre.me/) to connect with me!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Technologies this site uses:
+- Azure Static Web Apps
+- GitHub
