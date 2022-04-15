@@ -18,13 +18,13 @@ My own blog running on Azure technologies. I'm using Jekyll. Created via Windows
 
 ### Helpful links
 - Azure CLI Static web app documentation.
-    - https://docs.microsoft.com/en-us/cli/azure/staticwebapp?view=azure-cli-latest#az-staticwebapp-create
+    - [https://docs.microsoft.com/en-us/cli/azure/staticwebapp?view=azure-cli-latest#az-staticwebapp-create](https://docs.microsoft.com/en-us/cli/azure/staticwebapp?view=azure-cli-latest#az-staticwebapp-create)
 - How go generate SSH keys for GitHub.
-    - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+    - [https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - Quickstart guide on how to create a Azure Static Web app via Azure CLI.
-    - https://docs.microsoft.com/en-us/azure/static-web-apps/get-started-cli?tabs=vanilla-javascript
+    - [https://docs.microsoft.com/en-us/azure/static-web-apps/get-started-cli?tabs=vanilla-javascript](https://docs.microsoft.com/en-us/azure/static-web-apps/get-started-cli?tabs=vanilla-javascript)
 - Tutorial on how to publish a Jekyll app to Azure Static Web App.
-    - https://docs.microsoft.com/en-us/azure/static-web-apps/publish-jekyll 
+    - [https://docs.microsoft.com/en-us/azure/static-web-apps/publish-jekyll](https://docs.microsoft.com/en-us/azure/static-web-apps/publish-jekyll)
 
 ## First, lets install Jekyll in WSL and create our Jekyll app.
 Here is how I got Jekyll installed. 
