@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "I passed! AZ-900 Exam tips"
+date:   2022-04-25 15:00:00 -0400
+categories: azure
+---
+
+# I passed the AZ-900!
+My first cloud certification, AZ-900, and I've passed it. This was actually my second attempt at the AZ-900. My first attempt was about 3-5 years ago after doing a boot camp from a Microsoft Virtual training that offered a free test voucher, so I took it right after. I did alright with a 695 at that time, but never got back to that exam till now in my new role at my employer. 
+
+This time I did pass, with a 885 this time around. I was pretty shocked I scored that high cause I know I'm not a good test taker. I know I study hard and was passing practice exams with some good results, 80%, but still, didn't think I would score that good.
+
+## My exam preparation tips
+Here are some of my exam-prep tips. These may not be enough for you to pass, but here is what got me through it. 
+- Atleast a year of Azure Portal experience with some Azure PowerShell experience. 
+- I've taken a [Microsoft Azure Virtual Training Day: Fundamentals](https://events.microsoft.com/en-us/mvtd-azure?language=English&clientTimeZone=1) about 2-3 years ago. 
+- I took [A Cloud Guru AZ-900 Microsoft Azure Fundamentals course](https://acloudguru.com/course/az-900-microsoft-azure-fundamentals).
+    - I took the practice exams that were included with the course. They are mostly multiple choice, so they don't have some of the question formating like actual test, but still good questions to help yo on the exam.
+- I took the [Microsoft Learn paths](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/?tab=tab-learning-paths) that are located at the bottom of the overview page of the certification information.
+- I took LinkedIn Learning course, [Exam Prep: Microsoft Azure Fundamentals (AZ-900)](https://www.linkedin.com/learning/exam-prep-microsoft-azure-fundamentals-az-900-2).
+- I also the Microsoft practice exams via the [Microsoft Enterprise Skills Initiative](https://esi.microsoft.com) program. These are pretty much the MeasureUp exams. I felt that the type of questions on this exam and the formating were very similar to the actual exam. If you do good answering these type of questions, you should be good on the actual exam. Note, this was a offering from my employer.
+
+## Takeaways from the exam
+Here are some of my takeaways notes on the exam.
+- I liked taking it a physical location. Exam proctor gave a good prep talk to the test taker to help boost confidence. 
+- Even though I feld like I marked like have the exam questions for the review, it was nice to have a double look.
+    - I recommend making sure to answer all questions wether or not if you know them even though you have it maked for review already. This will help you due to it being a time test.
+- I felt like the time was a lot quicker compare to taking the practice tests, but that could be been due to being in the moment. 
+- Surprised how many questions I had on Azure Active Direcory and its uses, and what would I use within the Azure Active Directory.
+- Surprised that Azure Virtual Desktop questions were asked and the different types of Azure Virtual Desktops could be used. 
+- Interesting that if it was a question that involved what service would you use for this scenario, that the options given were a big list of items with there actual logos.
+
+## Final Thoughts
+Do whatever it takes for you to study and learn the material. I recommend going over the exam ciriculumn to make sure you study and understand the matrial that might be asked. Having a good support team goes a long ways. Asking friends, family, and co-workers advice on the exam or advice in studying and preparing for an exam could be helpful. 
+
+I hope this information is helpful in your journey in getting the AZ-900!
