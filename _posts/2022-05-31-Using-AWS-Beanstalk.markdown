@@ -7,7 +7,9 @@ categories: aws
 
 # Using AWS Elastic Beanstalk for my Weather API project
 
-I am currently studying for my AWS Certified Cloud Practitioner exam and when learning about computing, I was drawn to AWS Elastic Beanstalk. It sounded like a simple product to use, so I set on a journey to learn more about it. As I was searching for more information on AWS Elastic Beanstalk I came across this tutorial, Deploying a Flask application to Elastic Beanstalk - AWS Elastic Beanstalk (amazon.com). This tutorial helped me with publishing my OpenWeather API project.
+I am currently studying for my AWS Certified Cloud Practitioner exam and when learning about computing, I was drawn to AWS Elastic Beanstalk. It sounded like a simple product to use, so I set on a journey to learn more about it. As I was searching for more information on AWS Elastic Beanstalk I came across this tutorial, Deploying a Flask application to Elastic Beanstalk - AWS Elastic Beanstalk (amazon.com). This tutorial helped me with publishing my [OpenWeather API project](https://davisdre.xyz/my-eb-python-flask).
+
+![My OpenWeather API project](/assets/screenshot-1.png)
 
 ## First, I create a working directory
 
