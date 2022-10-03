@@ -2,7 +2,7 @@
 layout: post
 title:  "How I built this blog site"
 date:   2022-04-14 11:27:01 -0400
-categories: azure
+categories: [azure, cloud_build]
 ---
 
 On my journey in the cloud, I believe its best to do hands on projects and to showcase your work as well. So lets get started. 

@@ -2,7 +2,7 @@
 layout: post
 title:  "My resume is built on Azure"
 date:   2022-04-19 15:00:00 -0400
-categories: azure
+categories: [azure, personal]
 ---
 
 # My resume is built on Azure!

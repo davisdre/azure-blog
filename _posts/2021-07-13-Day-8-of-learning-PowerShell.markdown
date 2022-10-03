@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 8 of learning PowerShell"
 date:   2021-07-13 18:00:00 -0500
-categories: PowerShell Learning
+categories: PowerShell
 ---
 
 On day 8 of my PowerShell learning journey, I learned about objects or some might say/think *PSObject*. Below are some of my takeaway notes. Feel free to use them at your leisure.

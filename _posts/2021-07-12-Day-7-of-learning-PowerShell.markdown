@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 7 of learning PowerShell"
 date:   2021-07-12 18:00:00 -0500
-categories: PowerShell Learning
+categories: PowerShell
 ---
 
 On day 7 of my PowerShell learning journey, I learned about adding commands aka *PSSnapin* or *module*. Below are some of my takeaway notes. Feel free to use them at your leisure.

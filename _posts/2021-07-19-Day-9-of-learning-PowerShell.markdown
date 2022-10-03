@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 9 of learning PowerShell"
 date:   2021-07-19 18:00:00 -0500
-categories: PowerShell Learning
+categories: PowerShell
 ---
 
 Last week was a busy week at my employer, so I didn't get any PowerShell learning, but I'm back at it today. 

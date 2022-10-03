@@ -2,7 +2,7 @@
 layout: post
 title:  "I passed! AWS CCP Exam tips"
 date:   2022-07-14 15:00:00 -0400
-categories: aws
+categories: [aws, personal]
 ---
 
 # I passed the AWS Certified Cloud Practitioner!

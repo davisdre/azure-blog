@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my-blog!"
 date:   2022-04-13 11:27:01 -0400
-categories: Other
+categories: personal
 ---
 Hello, I'm Drew! Welcome to my blog.
 

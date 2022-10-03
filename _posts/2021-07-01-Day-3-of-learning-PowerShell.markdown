@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 3 of learning PowerShell"
 date:   2021-07-01 18:01:00 -0500
-categories: PowerShell Learning
+categories: PowerShell
 ---
 
 I'm sharing my PowerShell learning journey for all to follow along. Some of you might already know this information
