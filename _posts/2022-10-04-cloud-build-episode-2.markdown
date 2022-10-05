@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cloud Build: AWS and Wordpress"
-date:   2022-08-30 15:00:00 -0400
+date:   2022-10-04 15:00:00 -0400
 categories: [aws, cloud_build]
 ---
 
