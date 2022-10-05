@@ -2,7 +2,7 @@
 layout: post
 title:  "Cloud Build: Azure and Docker"
 date:   2022-07-31 15:00:00 -0400
-categories: azure, cloud build
+categories: [azure, cloud_build]
 ---
 
 Are you looking for a cloud build? Here is a cloud build that I conducted with some colleages learning on what you can do in the cloud. Here is the cloud build that I shared with them in July 2022. 

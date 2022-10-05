@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 6 of learning PowerShell"
 date:   2021-07-09 18:00:00 -0500
-categories: PowerShell Learning
+categories: PowerShell
 ---
 
 On day 6 of my PowerShell learning journey, I learned about the pipeline and how to use it with multiple commands. Below are some of my takeaway notes. Feel free to use them at your leisure.

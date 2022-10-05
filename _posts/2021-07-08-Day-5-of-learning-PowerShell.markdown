@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 5 of learning PowerShell"
 date:   2021-07-08 19:01:00 -0500
-categories: PowerShell Learning
+categories: PowerShell
 ---
 
 On day 5 of my PowerShell learning journey, I learned about how PSProviders are used. Below are some of my takeaway notes. Feel free to use them at your leisure.
