@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cloud Build: Azure and Docker"
+title:  "Cloud Build: GCP and Cloud Build"
 date:   2022-10-19 15:00:00 -0400
 categories: [gcp, cloud_build]
 ---
