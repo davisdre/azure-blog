@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "2022 in Review"
+date:   2022-12-31 15:00:00 -0400
+---
+As I'm sitting here at home and thinking of the past year I thought I would create a 2022 in review. Thought I would share my thoughts of the year. 
+
+- Azure/AWS fundamental certifications help you establish a foundation in Cloud Computing and help you gear the skills/roles you are interested in.
+- Have come to find out that I really have a passion/love for DevOps. Love it when I'm able to do DevOps-ish items.
+- A Cloud Guru has come to be my primary source place for gaining/learning new Cloud Skills. Their content talks to me.
+- Tackling multi-cloud can be a handful and challenging, because sometimes it can take the mind the time to switch back and forth on the name of the services you are needing to use.
+- Visual Studio Code, has become more of a useful tool for scripting, IaC, and more.
+
+I've learn alot this 2022 and hope to continue onward in 2023 as well. 
+
+Happy New Years!
+
+![Happy New Years](/assets/fireworks-1880042_640.jpg)
+
+Image by <a href="https://pixabay.com/users/christels-3741991/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1880042">Christel SAGNIEZ</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1880042">Pixabay</a>
