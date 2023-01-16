@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Use your hotmail email account on Bitwarden self-hosted for SMTP"
-date:   2023-01-16 15:00:00 -0400
+date:   2023-01-16 12:00:00 -0400
 ---
 
 One of the longest running self-hosted items I run is, [Bitwarden](https://bitwarden.com/). One of items that I could never figure our for a period of time was the SMTP setup for the application. So, over the weekend I decided to give it another go. After using some F12/Dev tools in the Edge web browser, I was first able to identity that I needed to enable some additional items in my proxy - 1. Websocket support. 2. HTTP/2 support.
