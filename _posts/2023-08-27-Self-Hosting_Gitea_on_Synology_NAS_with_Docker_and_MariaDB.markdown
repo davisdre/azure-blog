@@ -64,7 +64,7 @@ services:
 
 3. You will need to open the Container Packege and Create a new project. Project name I gave was 'gitea' and the Path was the volume I created in the File Station and where I stored my docker-compose.yml. It should auto detect your docker-compose.yml and then click Next. This will build out your Docker environment for Gitea.
 4. Now you can access the Gitea web UI by opening your browser and typing:
-[http://<your_synology_ip>:3000](http://<your_synology_ip>:3000)
+**http://<your_synology_ip>:3000**
 You will be greeted by a page that asks you to complete the initial configuration of Gitea. Here you will need to enter some basic information, such as the site title, the admin account details, and the database settings. Make sure that the database settings match the ones that you specified in the docker-compose.yml file.  
 
 # Accessing Gitea
