@@ -32,6 +32,7 @@ That's it! You have successfully set up MariaDB for Gitea on your Synology NAS. 
 
 1. Install MariaDB package via Synology Package Center. You can find it under the Utilities category. Follow the instructions to complete the installation.
 2. You will need to create a docker-compose.yml file in a folder of your choice. This file will define the configuration of the Gitea container, such as the ports, volumes, networks, and environment variables. NOTE, create a new volume in File Station Package so all storage is persistent and save this docker-compose.yml file in it. You can use the following template as a reference:
+
 ```yaml
 version: "3"
 
@@ -60,6 +61,7 @@ services:
       - "3000:3000"
       - "222:22"
 ```
+
 3. You will need to open the Container Packege and Create a new project. Project name I gave was 'gitea' and the Path was the volume I created in the File Station and where I stored my docker-compose.yml. It should auto detect your docker-compose.yml and then click Next. This will build out your Docker environment for Gitea.
 4. Now you can access the Gitea web UI by opening your browser and typing:
 [http://<your_synology_ip>:3000](http://<your_synology_ip>:3000)
