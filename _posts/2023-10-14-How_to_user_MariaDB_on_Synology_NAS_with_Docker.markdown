@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to user MariaDB on Synology NAS with Docker
+title: How to use MariaDB on Synology NAS with Docker
 ---
 
 # Introduction
