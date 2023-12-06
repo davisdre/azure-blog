@@ -1,0 +1,36 @@
+---
+layout: post
+title: Insights and Takeaways from the 2023 Indiana Public Sector Cybersecurity Summit
+---
+
+# Overview
+
+Attending the 2023 Indiana Public Sector Cybersecurity Summit was a valuable experience that provided a comprehensive overview of the latest developments and strategies in defending against cyber threats. Hosted by the Indiana Office of Technology, the summit brought together government technology professionals and cybersecurity leaders from across the state to share insights, experiences, and best practices.
+
+# Keynote Address - "Keep Your Head Out of the Cyber Sand"
+
+Bryce Austin, CEO of TCE Strategy, delivered a captivating keynote highlighting the power of processes and procedures over relying solely on tools. Drawing inspiration from the USS Missouri battleship, he illustrated the importance of distinguishing between "Black Phones" for internal communication and "Red Phones" for external connections, emphasizing their critical roles. Expressing concern, he stated, "We have a problem with security, and we are not taking it seriously," urging a shift in mindset. Recommending his book, "Secure Enough?: 20 Questions on Cybersecurity for Business Owners and Executives". Rigorous response strategies were encouraged, using the analogy of a squirrel versus a porcupine for a robust security posture. Additionally, Austin shed light on the limitations of geo-location as not being fully security-proof. His engaging keynote left attendees with valuable insights and a call to take security seriously in both personal and professional contexts.
+![](/assets/2023-12-15/keynote.jpg)
+
+# AI + ML in Cyber Defense Panel
+
+Moderated by Phil Bertolini (Senior Vice President, Government Technology), the panel on maximizing the role of AI and ML in cyber defense featured insights from Hemant Jain (Chief Information Security Officer, Office of Technology, State of Indiana), Keith Stover (Senior Solutions Architect, SecOps, OpenText Cybersecurity), and Jason Wright (SLED Practice Lead, Mandiant, now part of Google Cloud). The discussion emphasized the need to verify data when utilizing Generative AI (Gen AI) and the importance of embracing AI and ML without fear. The difficulty in identifying bad actors using Gen AI was acknowledged, with an interesting observation on the improved grammar in phishing emails.
+![](/assets/2023-12-15/session_ai_ml.jpg)
+
+# Featured Speakers - "Cyber Resources at the Ready: CISA + MS-ISAC Are Here to Help"
+
+Moderated by Phil Bertolini (Senior Vice President, Government Technology), this panel featuring Bridget Bean (Assistant Director for the Integrated Operations Division, Cybersecurity and Infrastructure Security Agency (CISA)) and Heather Doxon (Regional Engagement Manager, Multi-State Information Sharing and Analysis Center (MS-ISAC)) highlighted the underutilization of resources provided by CISA and MS-ISAC in the public sector. The synergy between these two groups, when combined with organizational teams, was emphasized as a powerful approach to enhancing security coverage and staying ahead of emerging threats. The importance of treating cybersecurity as a collaborative effort and regularly exercising incident response plans was a key takeaway.
+
+# Cloud Readiness Panel
+
+Moderated by Mike White (Deputy Chief Technology Officer, IN.gov and Payment Processing Programs, Office of Technology, State of Indiana), the session on cloud readiness featured insights from Elaine Kan (Chief Technology Officer, State Personnel Department, State of Indiana), Ryan Parthasarathy (Managing Director, Accenture), and Sean Totten (Chief Security Officer, Information Technology, City of Fishers). The panel stressed collaborative efforts in understanding shared responsibility models, tailoring security to diverse data types, and implementing effective tagging practices. The need for leadership involvement were highlighted, along with the importance of documenting cloud architecture and maintaining stringent security measures. Vendor relationships and upskilling initiatives were emphasized as well.
+![](/assets/2023-12-15/session_ready_for_cloud.jpg)
+
+# Featured Speaker - "Navigating Your Cyber Future"
+
+Dan Lohrmann's (Senior Fellow, Center for Digital Government) presentation focused on navigating the cyber future, emphasizing the value of tabletop discussions and using current events as exercises. He highlighted the growing threat of hacktivism fueled by social media and the potential impact of quantum computing on decryption. Lohrmann stressed the need to embrace emerging technologies like Generative AI, stating, "We got to get to yes."
+![](/assets/2023-12-15/final_feature_speaker.jpg)
+
+# Final Thoughts
+
+In conclusion, the 2023 Indiana Public Sector Cybersecurity Summit provided a wealth of knowledge and insights, emphasizing the collaborative nature of cybersecurity efforts and the need for ongoing vigilance and adaptation in the face of evolving threats. The summit served as an invaluable platform for professionals to exchange ideas and strategies, ultimately contributing to a more resilient and secure public sector in Indiana.
