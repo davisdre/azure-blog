@@ -9,7 +9,7 @@ Attending the 2023 Indiana Public Sector Cybersecurity Summit was a valuable exp
 
 # Keynote Address - "Keep Your Head Out of the Cyber Sand"
 
-Bryce Austin, CEO of TCE Strategy, delivered a thought-provoking keynote emphasizing the importance of processes and procedures in cybersecurity, sometimes outweighing the reliance on tools. His warning about the lax attitude towards security, particularly in relation to children's toys, highlighted the pervasive nature of cyber threats. Bryce also touched upon the vulnerabilities of geo-location.
+Bryce Austin, CEO of TCE Strategy, delivered a captivating keynote highlighting the power of processes and procedures over relying solely on tools. Drawing inspiration from the USS Missouri battleship, he illustrated the importance of distinguishing between "Black Phones" for internal communication and "Red Phones" for external connections, emphasizing their critical roles. Expressing concern, he stated, "We have a problem with security, and we are not taking it seriously," urging a shift in mindset. Recommending his book, "Secure Enough?: 20 Questions on Cybersecurity for Business Owners and Executives". Rigorous response strategies were encouraged, using the analogy of a squirrel versus a porcupine for a robust security posture. Additionally, Austin shed light on the limitations of geo-location as not being fully security-proof. His engaging keynote left attendees with valuable insights and a call to take security seriously in both personal and professional contexts.
 ![](/assets/2023-12-15/keynote.jpg)
 
 # AI + ML in Cyber Defense Panel
