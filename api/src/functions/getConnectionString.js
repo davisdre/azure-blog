@@ -1,9 +1,7 @@
-// Azure Function
+// This is an Azure Function
 module.exports = async function (context, req) {
     context.res = {
         // status: 200, /* Defaults to 200 */
-        body: {
-            connectionString: process.env.APP_INSIGHTS_CONNECTION_STRING
-        }
+        body: process.env.CONNECTION_STRING
     };
-};
+}
