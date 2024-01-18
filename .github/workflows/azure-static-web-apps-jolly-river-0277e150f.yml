@@ -33,7 +33,6 @@ jobs:
           ###### End of Repository/Build Configurations ######
         env:
           JEKYLL_ENV: production
-          CONNECTION_STRING: ${{ secrets.CONNECTION_STRING }}
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
