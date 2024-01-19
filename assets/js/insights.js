@@ -141,6 +141,6 @@
     // onInit: null,
     // cr: 0,
     cfg: { // Application Insights Configuration
-        connectionString: ""
+        connectionString: APPINSIGHTS_INSTRUMENTATIONKEY
     }
 })
